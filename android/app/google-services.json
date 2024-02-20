@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766215119997",
+    "project_id": "expensemonitorflutter",
+    "storage_bucket": "expensemonitorflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766215119997:android:dad3055f5d90fbf192fd14",
+        "android_client_info": {
+          "package_name": "com.example.flutter_sample1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEU3JmPMv7a9qxQyKsfKzWSJNnbyr7eEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
